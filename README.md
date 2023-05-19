@@ -1,5 +1,6 @@
 # Latham_BISC450C_Final
-The following is a my code portfolio for BISC450C Computational Biology, an introductory course into using the Python coding language to to analyze data and perform tasks. Each heading represents a skill learned or project completed using downloaded files. The majority of the code is functional and free of errors, aside from intentional errors which are noted in annotations. 
+### Hello, my name is Sydney Latham. The following is my code portfolio for BISC450C Computational Biology.
+BISC450C is an introductory course into using the Python coding language to to analyze data and perform tasks. Each heading represents a skill learned or project completed using downloaded files. The majority of the code is functional and free of errors, aside from intentional errors which are noted in annotations. 
 
 This repository was submitted as my final project for Spring23 at Louisiana Tech University to professor Dr. Joshua Vandenbrink (who does indeed make his students laugh with his jokes).
 
